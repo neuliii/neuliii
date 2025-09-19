@@ -1,4 +1,4 @@
-![profile-blur](https://capsule-render.vercel.app/api?type=blur&color=B9E0FD&height=300&text=neuliii%20Github&fontSize=60&fontColor=ffffff)
+![profile-blur](https://capsule-render.vercel.app/api?type=blur&color=B9E0FD&height=400&text=neuliii%20Github&fontSize=60&fontColor=e9ecef)
 
 <!--
 **neuliii/neuliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
