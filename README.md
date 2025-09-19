@@ -8,7 +8,7 @@
 정해진 길보다, 필요한 길을 먼저 찾고 만드는 사람입니다.<br/>
 '될 때까지'가 아닌 , '더 나아질 때까지' 움직입니다.
 
-#### 📇 Contact
+#### Contact Me ...
 <p>
   <a href="mailto:phn01113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<br/>
+
+---
 
 <br/>
 
